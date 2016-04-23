@@ -1,3 +1,3 @@
 "Hello World!"
 
-"Making more changes"
+"Making changes"
